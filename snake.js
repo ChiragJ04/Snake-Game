@@ -204,6 +204,6 @@ themeToggler.onclick = () =>{
         classList.add('active');
     }else{
         document.querySelector('body').
-        classList.remove('active');
+        classList.remove('active'); 
     }
 }
